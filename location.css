@@ -1,0 +1,12 @@
+
+body{
+    font-family:'Gill Sans';
+}
+
+.container{
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 1029px;
+    height: 100%;
+    left: 320px;
+}   
